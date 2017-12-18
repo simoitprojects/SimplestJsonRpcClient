@@ -1,0 +1,10 @@
+c:\users\strup\source\repos\SimplestJsonRpcClient\SimplestJsonRpcClient_test\bin\Debug\SimplestJsonRpcClient_test.exe.config
+c:\users\strup\source\repos\SimplestJsonRpcClient\SimplestJsonRpcClient_test\bin\Debug\SimplestJsonRpcClient_test.exe
+c:\users\strup\source\repos\SimplestJsonRpcClient\SimplestJsonRpcClient_test\bin\Debug\SimplestJsonRpcClient_test.pdb
+c:\users\strup\source\repos\SimplestJsonRpcClient\SimplestJsonRpcClient_test\bin\Debug\SimplestJsonRpcClient.pdb
+c:\users\strup\source\repos\SimplestJsonRpcClient\SimplestJsonRpcClient_test\obj\Debug\SimplestJsonRpcClient_test.csprojResolveAssemblyReference.cache
+c:\users\strup\source\repos\SimplestJsonRpcClient\SimplestJsonRpcClient_test\obj\Debug\SimplestJsonRpcClient_test.csproj.CoreCompileInputs.cache
+c:\users\strup\source\repos\SimplestJsonRpcClient\SimplestJsonRpcClient_test\obj\Debug\SimplestJsonRpcClient_test.exe
+c:\users\strup\source\repos\SimplestJsonRpcClient\SimplestJsonRpcClient_test\obj\Debug\SimplestJsonRpcClient_test.pdb
+c:\users\strup\source\repos\SimplestJsonRpcClient\SimplestJsonRpcClient_test\bin\Debug\Newtonsoft.Json.dll
+c:\users\strup\source\repos\SimplestJsonRpcClient\SimplestJsonRpcClient_test\bin\Debug\Newtonsoft.Json.xml
