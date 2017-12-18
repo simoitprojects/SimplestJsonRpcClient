@@ -16,7 +16,7 @@ namespace SimplestJsonRpcClient_test
                 string response1 = await client.PostRaw("{ \"method\":\"getinfo\",\"params\":[]}");
                 Console.WriteLine(response1);
 
-                dynamic response2 = await client.PostRaw("{ \"method\":\"getinfo\",\"params\":[]}");
+                dynamic response2 = await client.Post("{ \"method\":\"getinfo\",\"params\":[]}");
                 Console.WriteLine(response2.result[0].info);
             }
             catch (Exception e)
